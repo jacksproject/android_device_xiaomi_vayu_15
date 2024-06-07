@@ -30,8 +30,3 @@ debug.media.transcoding.codec_max_operating_rate_1080P=120
 ro.zram.mark_idle_delay_mins=60
 ro.zram.first_wb_delay_mins=1440
 ro.zram.periodic_wb_delay_hours=24
-
-# Enable debugging
-persist.sys.usb.config=mtp,adb
-ro.adb.secure=0
-ro.debuggable=1
