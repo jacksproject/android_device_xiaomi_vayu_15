@@ -5,4 +5,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/blaze_vayu.mk
+    $(LOCAL_DIR)/styx_vayu.mk
